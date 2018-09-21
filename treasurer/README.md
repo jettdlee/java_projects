@@ -1,3 +1,3 @@
 # Treasurer
-Initial assignement to get started in java and learn the basics of a java script. Calculates the price and volume of a gold cube depending on the users input of the length and price (per cubic centimeter).
+Initial assignment to get started in Java and learn the basics of a Java script. Calculates the price and volume of a gold cube depending on the user's input of the length and price (per cubic centimetre).
 Compile and run the 'Treasurer.java' script.
