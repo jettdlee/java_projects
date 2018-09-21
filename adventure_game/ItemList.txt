@@ -1,0 +1,50 @@
+Map
+Map
+Map
+Map
+Map
+Map
+Map
+Map
+Map
+Map
+Item Detector
+Item Detector
+Item Detector
+Item Detector
+Item Detector
+Armour
+Shield
+Helmet
+Leather Gloves
+Rusty Sword
+Longsword
+Bow
+Arrows
+Hammer
+Pickaxe
+Dagger
+Axe
+Magic Orb
+Stone
+Gold Ore
+Iron Ingot
+Ruby
+Healing Potion
+Staff
+Clothes
+Bones
+Magic Key
+Powder
+Herbs
+Pelt
+Sack
+Black Vial
+Torch
+Bedroll
+Dart
+Gold Coins
+Soul Gem
+Scrolls
+Book
+Wood Stick
