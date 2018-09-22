@@ -10,4 +10,5 @@ First, some definitions:
 * Finally, a perfect number is one in which the abundancy (or deficiency) is exactly zero, i.e. the sum of the proper divisors is equal to the number itself. 
 
 On being supplied with a positive integer, the Oracle will tell you whether the number is abundant, deficient or perfect, together with the values of any abundancy or deficiency. Your program should continue to read numbers and pass them to the Oracle until you enter a value less than 1.
-Compile and run ''
+
+Compile and run 'MagicKeys.java'
