@@ -7,4 +7,4 @@ c – b, c + (a + b), c – a
 c – (a – b), c, c + (a – b)
 c + a, c – (a + b), c + b
 
-Compile and run 
+Compile and run 'MagicSquare.java'
