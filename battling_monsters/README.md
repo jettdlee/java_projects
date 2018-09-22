@@ -11,3 +11,4 @@ BattleQueen object organizes tournaments, passing it references to the four mons
 At the end of each fight, the BattleQueen will inform the competitors of the result, and each monster should keep count of its wins, losses and draws. At the end of the tournament, the BattleQueen will ask each monster to output details of its fight record.
 
 Used to create efficient objects and reference to the main application, and to be able to call variables to use in if statements.
+Compile and run 'BattleQueen.java'
